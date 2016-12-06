@@ -8,7 +8,7 @@ export SPARK_HOME to wherever you unpacked the tarball
 http://spark.apache.org/downloads.html
 
 [bourne@skynet2]$ echo $SPARK_HOME 
-/home/cgaustin/workspace/apache-spark/spark-2.0.2-bin-hadoop2.7
+/home/bourne/workspace/apache-spark/spark-2.0.2-bin-hadoop2.7
 [bourne@skynet2 spark_sandbox]$ ls $SPARK_HOME
 bin  conf  data  examples  jars  LICENSE  licenses  NOTICE  python  R  README.md  RELEASE  sbin  yarn
 
